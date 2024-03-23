@@ -8,12 +8,8 @@ Using Scss and BEM methodology, create responsive-web site and make sure what's 
 
 </div>
 
-> <br>
-> npm install -g sass
-> 
-> sass --watch \<SCSSFile\> \<CSSFile\>
-> <br>
-> <br>
+vscode의 live scss 를 사용합니다.
+css로 전처리 하지 않을 파일은 _로 시작해야합니다. 아니면 각 폴더에 css파일로 scss가 자동변환됩니다.
 
 ### Built With
 
